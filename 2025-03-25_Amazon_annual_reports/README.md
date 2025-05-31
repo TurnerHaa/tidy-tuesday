@@ -1,1 +1,1 @@
-![Amazon reports plot](2025-03-25_Amazon_annual_reports/2025-03-25_Amazon_annual_reports.png)
+![Pokemon plot](2025-04_01_Pokemon/Pokemon.png)
