@@ -1,5 +1,5 @@
 # Tidy Tuesday
-My occasional contributions to the Tidy Tuesday project run by the Data Science Learning Community. 
+My occasional contributions to the [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project run by the [Data Science Learning Community](https://dslc.io/). 
 
 ## [Pokemon](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-01_Pokemon)
 ![Pokemon plot](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-01_Pokemon/Pokemon.png)
