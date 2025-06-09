@@ -1,0 +1,1 @@
+![US care plot](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-08_US_care/US_care.png)

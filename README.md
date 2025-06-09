@@ -9,3 +9,6 @@ I also share these on my Bluesky – [‪@turnerhaa.bsky.social](https://bsky.ap
 
 ## [Amazon annual reports](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-03-25_Amazon_annual_reports)
 ![Amazon reports plot](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-03-25_Amazon_annual_reports/2025-03-25_Amazon_annual_reports.png)
+
+## [US care](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-08_US_care)
+![US care plot](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-08_US_care/US_care.png)
