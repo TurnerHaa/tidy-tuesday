@@ -4,7 +4,7 @@ My occasional contributions to the [Tidy Tuesday](https://github.com/rfordatasci
 I also share these on my Bluesky – [‪@turnerhaa.bsky.social](https://bsky.app/profile/turnerhaa.bsky.social)‬
 
 ## [Palmers Penguins](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-15_Penguins)
-![Palmers Penguins](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-15_Pokemon/PalmerPenguins.png)
+![Palmers Penguins](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-15_Penguins/PalmerPenguins.png)
 
 ## [Pokemon](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-01_Pokemon)
 ![Pokemon plot](https://github.com/TurnerHaa/tidy-tuesday/blob/main/2025-04-01_Pokemon/Pokemon.png)
